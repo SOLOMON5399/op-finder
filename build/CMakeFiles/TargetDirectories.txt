@@ -1,0 +1,8 @@
+/home/hp-laptop/op-finder/build/CMakeFiles/intrinsics_gen.dir
+/home/hp-laptop/op-finder/build/CMakeFiles/omp_gen.dir
+/home/hp-laptop/op-finder/build/CMakeFiles/acc_gen.dir
+/home/hp-laptop/op-finder/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/hp-laptop/op-finder/build/CMakeFiles/clang-tablegen-targets.dir
+/home/hp-laptop/op-finder/build/CMakeFiles/op-finder.dir
+/home/hp-laptop/op-finder/build/CMakeFiles/edit_cache.dir
+/home/hp-laptop/op-finder/build/CMakeFiles/rebuild_cache.dir

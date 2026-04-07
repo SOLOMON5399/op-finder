@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/main.cpp.o -c /home/hp-laptop/op-finder/main.cpp",
+  "file": "/home/hp-laptop/op-finder/main.cpp",
+  "output": "CMakeFiles/op-finder.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/OperationFinder.cpp.o -c /home/hp-laptop/op-finder/OperationFinder.cpp",
+  "file": "/home/hp-laptop/op-finder/OperationFinder.cpp",
+  "output": "CMakeFiles/op-finder.dir/OperationFinder.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/OperationFinderAstAction.cpp.o -c /home/hp-laptop/op-finder/OperationFinderAstAction.cpp",
+  "file": "/home/hp-laptop/op-finder/OperationFinderAstAction.cpp",
+  "output": "CMakeFiles/op-finder.dir/OperationFinderAstAction.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/OperationFinderAstConsumer.cpp.o -c /home/hp-laptop/op-finder/OperationFinderAstConsumer.cpp",
+  "file": "/home/hp-laptop/op-finder/OperationFinderAstConsumer.cpp",
+  "output": "CMakeFiles/op-finder.dir/OperationFinderAstConsumer.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/OperationFinderAstVisitor.cpp.o -c /home/hp-laptop/op-finder/OperationFinderAstVisitor.cpp",
+  "file": "/home/hp-laptop/op-finder/OperationFinderAstVisitor.cpp",
+  "output": "CMakeFiles/op-finder.dir/OperationFinderAstVisitor.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/OperationLog.cpp.o -c /home/hp-laptop/op-finder/OperationLog.cpp",
+  "file": "/home/hp-laptop/op-finder/OperationLog.cpp",
+  "output": "CMakeFiles/op-finder.dir/OperationLog.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/OperationStorage.cpp.o -c /home/hp-laptop/op-finder/OperationStorage.cpp",
+  "file": "/home/hp-laptop/op-finder/OperationStorage.cpp",
+  "output": "CMakeFiles/op-finder.dir/OperationStorage.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/OperatorCounter.cpp.o -c /home/hp-laptop/op-finder/OperatorCounter.cpp",
+  "file": "/home/hp-laptop/op-finder/OperatorCounter.cpp",
+  "output": "CMakeFiles/op-finder.dir/OperatorCounter.cpp.o"
+},
+{
+  "directory": "/home/hp-laptop/op-finder/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -isystem /usr/include/opencv4 -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/op-finder.dir/WhileLoop.cpp.o -c /home/hp-laptop/op-finder/WhileLoop.cpp",
+  "file": "/home/hp-laptop/op-finder/WhileLoop.cpp",
+  "output": "CMakeFiles/op-finder.dir/WhileLoop.cpp.o"
+}
+]
